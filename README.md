@@ -6,7 +6,7 @@ Text preprocessing is done followed by the usage of 2 vectorization techniques(B
 
 ## Installation
 
-Download all the files and run the Jupyter Notebook provided.
+Go to 'Releases'. Download all the files under 'Final product' and run the Jupyter Notebook provided.
 
 __Note:__ Make sure that all the downloaded files are saved in the same location/folder.
 
