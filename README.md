@@ -6,9 +6,15 @@ Text preprocessing is done followed by the usage of 2 vectorization techniques(B
 
 ## Installation
 
-Go to 'Releases'. Download all the files under 'Final product' and run the Jupyter Notebook provided.
+Download the following files:
+- 'Complaint_topic_extraction_Arizona_Massachusetts_final.ipynb'
+- 'arizona_massachusetts_comcast_complaints.csv'
 
-__Note:__ Make sure that all the downloaded files are saved in the same location/folder.
+__Important:__ Make sure that all the downloaded files are saved in the same location/folder.
+
+Open and run the Jupyter Notebook (.ipynb) to get the results.
+
+_Note: A PDF file of the Jupyter Notebook 'Complaint_topic_extraction_Arizona_Massachusetts_final.pdf' is also included in this repository which contains the codes used as well as the results obtained._
 
 ## Libraries used
 
@@ -21,8 +27,7 @@ __Note:__ Make sure that all the downloaded files are saved in the same location
   - spacy
   - gensim
   - tomotopy
-
-
+  - IPython
 
 ## License
 
